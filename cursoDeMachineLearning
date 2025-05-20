@@ -1,0 +1,85 @@
+Curso de Machine Learning 🤖️
+
+Ementa:
+Pré-processamento.
+Extração de características.
+Aprendizagem supervisionada e não supervicionada.
+Métodos:
+	baseado em distância (knn),
+	probabilístico(bayes),
+	conexionista (redes neurais),
+	agrupamentos (cluster),
+Desempenho de Classificadores e medidas de avaliação.
+Aplicações de Aprendizagem de máquinas.
+
+
+Wtf is Machine Learning?
+
+ML: Tentativa de encontrar uma maneira de fazer previsões
+Os programas de ML também chamados: INDUTORES OU CLASSIFICADORES
+
+Este modelo pode ser treinado previamente ou não
+Supervisionado
+Não Supervisionado
+
+Como antes eram feitas previsões:
+Matemáticos: curva normal --> previsões e probabilidaddes de algo acontecer. Curva Gaussiana, Gauss.
+Outras maneirada para cda problema.
+
+
+Machine Learning:
+	Unsupervised Learning:
+		Clustering
+	Supervised Learning:
+		Regression
+		Classification -> Foco principal do curso
+	Reinforcement Learning
+
+
+Pré-processamento
+
+Classificador, é um software construído automaticamente a partir dos dados de cada problema e sua função é dizer qual a resposta à um problema.
+
+Regressão é similar à classificação, só que a resposta é normalmente um número real ou número contínuo.
+
+"Ml é uma maneira de construir um modelo matemático (na maioria das vezes de foram automática) que consiga diferenciar cada um dos pontos entre diferentes classes"
+
+Uma das nossas tarefas em Ml é justamente tentar prever o que acontecerá no futuro, sabendo que 
+
+
+
+
+
+Datasets -> Dados pertinentes ao nosso problema
+
+- Pré-processamento
+
+Caracteriscias do Datasets
+Valores
+	Variavel.
+	Previsão.
+	
+	
+Contagem de Números
+
+print('lista-reverso:', lista[::-1])
+- lista[::-1]. os primeiros dois dizem a partir de qual indice eu quero ler a minha lista, o segundo até onde eu quero ler a minha lista, o ultimo é o step, ou seja, o tamanho do passo.
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
