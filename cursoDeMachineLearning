@@ -65,7 +65,7 @@ Contagem de Números
 print('lista-reverso:', lista[::-1])
 - lista[::-1]. os primeiros dois dizem a partir de qual indice eu quero ler a minha lista, o segundo até onde eu quero ler a minha lista, o ultimo é o step, ou seja, o tamanho do passo.
 
-
+Uma tabela nada mais é (em python) que uma list de listas.
 
 
 	
