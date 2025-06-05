@@ -1,0 +1,60 @@
+1. VOGAIS: Faça um programa que conte o número de vogais em uma string.
+
+Sabemos que as strings se comportam como um array de caracteres.
+
+Sabendo disso você fará um programa que capture uma string qualquer (pode ser uma frase com várias palavras).
+
+Capture esta string em uma variável.
+
+Faça um loop de repetição para cada letra desta string.
+
+Caso a letra seja uma vogal, que você some 1 em uma variável contador.
+
+Ao final do programa, imprima a contagem das vogais.
+
+
+# 2. POSITIVOS E NEGATIVOS: Faça um programa que manipule números positivos e negativos.
+
+Peça para o usuário digitar vários números (positivos e negativos).
+
+Este pedido deve estar dentro de um loop de repetição.
+
+Dentro do loop, você irá capturar todos os números digitados para dentro de uma lista geral.
+
+Quando o usuário digitar o zero, que pare este loop de repetição.
+
+Após isso, faça outro loop de repetição para percorrer esta lista.
+
+Dentro deste loop deve dever ser feito uma comparação se o número é positivo e negativo. Caso positivo, coloque o número dentro de uma lista só de números positivos. Caso positivo, some o número em uma variável. Caso positivo conte +1 em uma variável contador. Faça o mesmo para os números negativos.
+
+## Ao final seu programa deverá imprimir na tela:
+
+1. lista geral
+1. lista de positivos
+1. lista de negativos
+1. soma de positivos
+1. soma de negativos
+1. contagem de positivos
+1. contagem de negativos
+1. média de positivos
+1. média de negativos
+
+
+3. LANCHONETE: Uma lanchonete tem em seu cardápio 5 comidas e 3 bebidas armazenados em um dicionário.
+
+Veja exemplo:
+cardapio = {}
+cardapio['xbug'] = 7.30
+
+print(cardapio)
+
+## FA�A:
+
+1. Preencha o dicion�rio que representa o card�pio corretamente com o nome e pre�o de 5 lanches e 3 bebidas
+
+1. Fa�a um la�o de repeti��o que mostre na tela (linha por linha) o nome do produto e o pre�o que voc� cadastrou.
+
+1. Depois, supondo que chegou um cliente na loja, capture o nome do lanche e da bebida do cliente.
+    1. Busque no dicion�rio (card�pio) o pre�o do que o cliente pediu.
+    1. Some o valor dos produtos pedidos pelo cliente
+    1. Mostre na tela o valor final do pedido.
