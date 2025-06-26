@@ -1,0 +1,5 @@
+0 -- dataset adult
+1 -- excluir linhas com dados faltantes
+2 -- transformar as strings em numeros
+3 -- separar idade por faixa valores
+
