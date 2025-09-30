@@ -1,0 +1,25 @@
+Aula diferente - aparementemente
+
+Dataset - DS
+A ultima coluna é a nossa classe - será usada pelos nossos agentes para identificar as classes.
+
+Treino x Teste
+
+A partir do treino treinamos um classificador.
+
+Perceptron - pesquisar sobre.
+
+Classificador - CLS
+
+Teste - TST
+
+Predição  ---> ŷ -> predição dos testes.
+
+ŷ~ytrue -> fazer comparação para saber a acurácia.
+
+deixar nosso DS em 50% de treino e 50% de teste, alguns autores podem ter porcentagens diferentes, mas a soma sempre dá 100%
+
+x -> trabalhos com a tabela
+y -> trabalhamos com linha
+
+

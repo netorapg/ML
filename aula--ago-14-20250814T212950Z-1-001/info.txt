@@ -1,0 +1,26 @@
+
+Exemplo de classificação com Perceptron
+    - remover a função capturar_dados
+    - chamar a função data_set da aula 01-julho
+    - com os dados do ds -> 'adult', fazer abaixo:
+    - misturar o ds com o shuffle
+    - separar o dataset em treino e teste, sendo: 60% e 40%
+    - rodar o Perceptron pelo menos 20x
+    - capturar a acuracia de cada 'rodada'
+    - achar a média
+
+Exercício:
+    - fazer a mesma coisa para o classificador SVM:
+        -- Support Vector Machine - SVM
+        -- classe do python: SVC
+
+Responder as perguntas:
+    - o que é matriz de confusão
+    - o que significa true-positive (TP) e false-positive (FP)
+    - o que significa false-negative (FN) e true-negative (TN)
+
+Verificar:
+    https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning/
+    https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+
+
